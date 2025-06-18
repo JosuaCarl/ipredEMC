@@ -1,5 +1,5 @@
 # ipredEMC
-ipredEMC - intramembrane binding predictor for the EMC 
+ipredEMC - intramembrane binding predictor for the EMC protein complex
 
 The script "prediction.py" predicts the transmembrane domain's (TMD) affinity to endoplasmic reticulum membrane complex (EMC) based on the given fasta file containing protein sequences of TMDs.
 
