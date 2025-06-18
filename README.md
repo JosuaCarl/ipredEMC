@@ -26,7 +26,7 @@ Usage
 Other files
 
     "significant_features.csv": Contains the list of significant features used for prediction.
-    "aaindex1": Contains the Amino Acid Index data used for feature calculation.
+    "aaindex1": Contains the Amino Acid Index data used for feature calculation. [1][2]
     "regr.pkl": Pre-trained model for prediction.
     "predicted_affinity.csv": Output file with predicted affinities for TMD sequences.
     "TMDs_example.fasta": example of fasta file with sequences of TMDs
@@ -34,3 +34,12 @@ Other files
 Contact
      
      mar.ark.parr - at - gmail.com
+
+References
+
+    [1] Kawashima, S. & Kanehisa, M. AAindex: Amino Acid index database. Nucleic Acids Research 28, 374-374 (2000). https://doi.org:10.1093/nar/28.1.374
+    [2] Kawashima, S. et al. AAindex: amino acid index database, progress report 2008. Nucleic Acids Res 36, D202-205 (2008). https://doi.org:10.1093/nar/gkm998
+
+
+
+
