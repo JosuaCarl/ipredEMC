@@ -25,11 +25,11 @@ Usage
     
 Other files
 
-    "significant_features.csv": Contains the list of significant features used for prediction.
-    "aaindex1": Contains the Amino Acid Index data used for feature calculation. [1][2]
-    "regr.pkl": Pre-trained model for prediction.
-    "predicted_affinity.csv": Output file with predicted affinities for TMD sequences.
-    "TMDs_example.fasta": example of fasta file with sequences of TMDs
+    significant_features.csv: Contains the list of significant features used for prediction.
+    aaindex1: Contains the Amino Acid Index data used for feature calculation. [1][2]
+    regr.pkl: Pre-trained model for prediction.
+    predicted_affinity.csv: Output file with predicted affinities for TMD sequences.
+    TMDs_example.fasta: example of fasta file with sequences of TMDs
 
 Contact
      
