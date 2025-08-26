@@ -1,0 +1,14 @@
+# IDE
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Env
+.venv
+
+# Data folders
+data/*
+fastas/*
+predictions/*
+results/*
