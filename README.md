@@ -41,8 +41,8 @@ TMDs_example.fasta: example of fasta file with sequences of TMDs
 ## References
 This software was developed by [Marina Parr](https://github.com/MarinaParr).
 
-[1] Kawashima, S. & Kanehisa, M. AAindex: Amino Acid index database. Nucleic Acids Research 28, 374-374 (2000). https://doi.org:10.1093/nar/28.1.374
-[2] Kawashima, S. et al. AAindex: amino acid index database, progress report 2008. Nucleic Acids Res 36, D202-205 (2008). https://doi.org:10.1093/nar/gkm998
+- [1] Kawashima, S. & Kanehisa, M. AAindex: Amino Acid index database. Nucleic Acids Research 28, 374-374 (2000). https://doi.org:10.1093/nar/28.1.374
+- [2] Kawashima, S. et al. AAindex: amino acid index database, progress report 2008. Nucleic Acids Res 36, D202-205 (2008). https://doi.org:10.1093/nar/gkm998
 
 
 
