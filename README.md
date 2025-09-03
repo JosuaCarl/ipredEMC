@@ -21,10 +21,10 @@ uv sync
 
 ## Usage
 
-Run the script by providing the fasta file name as a command-line argument. For example 
+Run the script by providing the fasta file name as a command-line argument (works without the previous step): 
 
 ```bash
-python3 prediction.py TMDs_example.fasta
+uv run python3 prediction.py "<path/to/file.fasta>"
 ```
 
 The script will parse the fasta file and extract sequences with 9 or more residues. The predicted affinity of TMD to EMC will be saved in a file named "predicted_affinity.csv". 
