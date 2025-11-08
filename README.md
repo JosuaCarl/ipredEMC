@@ -15,6 +15,11 @@ cd ipredEMC
 ## Dependencies
 To install dependencies, just [Install uv](https://docs.astral.sh/uv/getting-started/installation/) and call:
 
+To use a corporate Proxy use
+```Powershell
+$env:ALL_PROXY="user:password@proxy:port"
+```
+
 ```bash
 uv sync
 ```
